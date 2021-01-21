@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name:     BaazarVoice Integration
+ * Plugin Name:     Integration for BazaarVoice
  * Plugin URI:      https://knowledge.bazaarvoice.com/
  * Description:     An integration for Baazarvoice that ties into ACF, so that reviews may be displayed on a page.
  * Author:          Kanopi Studios
  * Author URI:      https://kanopi.com/
- * Text Domain:     baazarvoice-intergration
+ * Text Domain:     integration-for-baazarvoice
  * Domain Path:     /languages
  * Version:         1.0.2
  *

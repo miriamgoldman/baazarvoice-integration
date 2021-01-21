@@ -36,9 +36,6 @@ require_once 'BVFooter.php';
 // If declared in the another file it does not affect the current file.
 declare(ticks = 1);
 
-// Default charset will be used in case charset parameter is not properly configured by user.
-define('DEFAULT_CHARSET', 'UTF-8');
-
 // ------------------------------------------------------------------------
 
 /**

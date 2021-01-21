@@ -1,4 +1,4 @@
-=== Bazaarvoice Integration ===
+=== Integration for BazaarVoice ===
 Contributors: miriamgoldman
 Tags: workable, bazaarvoice, ratings, reviews, comments
 Requires at least: 5.0
@@ -11,12 +11,12 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 An plugin that will integrate with the Bazaarvoice rating system.
 == Description ==
 
-The Bazaarvoice Integration plugin
+This plugin will allow you to connect your WordPress site to your BazaarVoice integration, by providing shortcodes to display your reviews, and overall star ratings for each product.
 
 == Installation ==
 
 = Traditional Method =
-1. Place bazaarvoice-integration.zip to the wp-content/plugins/ directory
+1. Download plugin to the wp-content/plugins/ directory
 2. Extract plugin
 3. Navigate to "Installed Plugins" and click "Activate"
 4. To view, go to Settings -> Baazarvoice Integration
